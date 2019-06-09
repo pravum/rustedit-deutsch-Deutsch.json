@@ -1,2 +1,6 @@
 # rustedit-deutsch
-deutsche übersetzung
+# deutsche übersetzungsdatei von rustedit
+# diese datei einfach in das verzeichnis /localization im 
+# Rusteditordner kopieren.eventuell muss neu gestarted
+# werden und im editor auf deutsch gestellt werden
+
