@@ -62,8 +62,8 @@
   "CreateMap.Title": "Erstelle eine neue Map",
   "Custom.Hints.1": "Probieren Sie einiges aus bevor Sie im Discord fragen, vieles erklärt sich selbst :)",
   "Custom.Hints.2": "Achten Sie darauf die richtigen Channel im Discord zu verwenden !",
-  "Custom.Hints.3": "Es werden hin und wieder Updates der Übersetzung durchgeführt, schauen Sie öfter mal auf Github nach !"
-  "Custom.Himts.3"" "Deutsche Übersetzung von Pravum, sollten Fehler auftauchen können Sie mich auf dem Discord kontaktieren !"
+  "Custom.Hints.3": "Es werden hin und wieder Updates der Übersetzung durchgeführt, schauen Sie öfter mal auf Github nach !",
+  "Custom.Himts.4": "Deutsche Übersetzung von Pravum, sollten Fehler auftauchen können Sie mich auf dem Discord kontaktieren !",
   "DuplicateRemover.Delete": "Doppelte Prefabs löschen {0}/{1}",
   "DuplicateRemover.Found": "{0} Doppelte Prefabs gefunden",
   "DuplicateRemover.Scan": "Scannen nach doppelten Prefabs ...",
