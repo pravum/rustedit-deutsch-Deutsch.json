@@ -5,8 +5,8 @@
 # verzeichnis kopieren. eventuell muss neu gestartet
 # 
 # mein discord :  https://discord.gg/Wx2tUFg
-# du möchtest mich unterstützen ? kein problem ;) paypal.me/PravumsRustserver
-#
+# du möchtest mich unterstützen ? kein problem ;) https://paypal.me/PravumsRustserver
+
 
 
 
