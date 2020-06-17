@@ -1,4 +1,4 @@
-# update auf 1.1.10 /oder höher
+# update auf 1.1.18 /oder höher
 # rustedit-deutsch
 # deutsche übersetzungsdatei für rustedit
 # diese datei einfach in das rustedit/localization/ 
