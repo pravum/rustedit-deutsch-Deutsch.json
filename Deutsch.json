@@ -76,7 +76,7 @@
   "FileSystem.Bootstrap.GameManager": "Spielmanager Warm-Up",
   "FileSystem.Bootstrap.Items": "Item-Listen füllen",
   "FileSystem.Bootstrap.Manifest": "Lade Game Manifest",
-  "FileSystem.Bootstrap.PreloadGUI": "Vorbereitung UI - Übersetzung [von Pravum] für <color=#009F6B>Version 1.1.21 oder höher</color>",
+  "FileSystem.Bootstrap.PreloadGUI": "Vorbereitung UI - Übersetzung [von Pravum] für <color=#009F6B>Version 1.1.22 oder höher</color>",
   "FileSystem.Bootstrap.Ready": "Fertig!",
   "FileSystem.InvalidMap": "Ungültige Mapdatei ausgewählt !",
   "FileSystem.InvalidPath": "Ungültiges Verzeichnis ausgewählt !",
