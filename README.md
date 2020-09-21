@@ -1,5 +1,5 @@
 <<<<<<< Updated upstream
-# update auf 1.1.30 +
+# update auf 1.1.30 a+
 # rustedit-deutsch
 # deutsche übersetzungsdatei für rustedit
 # diese datei einfach in das rustedit/localization/ 
