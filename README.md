@@ -5,7 +5,8 @@
 # verzeichnis kopieren. eventuell muss neu gestartet.
 # zum Shop : https://rust-custom-designs.biz/
 # mein discord :  https://discord.gg/Wx2tUFg
-# du möchtest mich unterstützen ? kein problem ;) https://paypal.me/PravumsRustserver
+# Ich trinke gerne Kaffee, wer gerne etwas in die Kaffee kasse tun möchte kein problem ;) 
+# https://paypal.me/PravumsRustserver
 
 
 
