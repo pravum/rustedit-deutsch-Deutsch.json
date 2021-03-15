@@ -7,9 +7,9 @@
 # ich update auch zwischendurch wenn mir ein fehler
 # aufgefallen ist und das kann auch unter der selben 
 # versionsnummer sein .
-# zum Shop : https://rust-custom-designs.biz/
+# zum shop : https://rust-custom-designs.biz/
 # mein discord :  https://discord.gg/Wx2tUFg
-# Kaffeekasse ^: paypal | pravum@pra-mail.de
+# kaffeekasse ^: paypal | pravum@pra-mail.de
 
 
 
