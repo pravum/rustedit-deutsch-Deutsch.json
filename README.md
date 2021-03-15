@@ -5,7 +5,7 @@
 # verzeichnis kopieren. eventuell muss neu gestartet.
 # zum Shop : https://rust-custom-designs.biz/
 # mein discord :  https://discord.gg/Wx2tUFg
-# Kaffeekasse ;): https://paypal.me/PravumsRustserver
+# Kaffeekasse ;): paypal- pravum@pra-mail.de
 
 
 
