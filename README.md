@@ -1,4 +1,4 @@
-# rustedit-deutsch für version 1.1.35+
+# rustedit-deutsch für version 1.1.36+
 # deutsche übersetzungsdatei für rustedit,
 # diese datei einfach in das rustedit/localization/ 
 # verzeichnis kopieren. eventuell muss neu gestartet.
