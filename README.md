@@ -1,6 +1,6 @@
 # rustedit-deutsch für version 1.1.36+
 # deutsche übersetzungsdatei für rustedit,
-# diese datei einfach in das rustedit/localization/ 
+# die datei Deutsch.json einfach in das rustedit/localization/ 
 # verzeichnis kopieren. eventuell muss neu gestartet.
 # ladet euch auch mal zwischendurch die datei runter,
 # ich update auch zwischendurch wenn mir ein fehler
