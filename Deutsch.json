@@ -80,7 +80,7 @@
   "FileSystem.Bootstrap.GameManager": "<color=#ff9b00>Spielmanager Warm-Up</color>",
   "FileSystem.Bootstrap.Items": "<color=#ff9b00>Item-Listen füllen</color>",
   "FileSystem.Bootstrap.Manifest": "<color=#ff9b00>Lade Game Manifest</color>",
-  "FileSystem.Bootstrap.PreloadGUI": "<color=#ff9b00>Vorbereitung UI .. </color> <color=#ff9b00>Übersetzung von <b>Pravum</b> für Version 1.1.35+</color>",
+  "FileSystem.Bootstrap.PreloadGUI": "<color=#ff9b00>Vorbereitung UI .. </color> <color=#ff9b00>Übersetzung von <b>Pravum</b> für Version 1.1.36+</color>",
   "FileSystem.Bootstrap.Ready": "<color=#ff9b00>Fertig!</color>",
   "FileSystem.InvalidMap": "<color=#ff9b00>Ungültige Mapdatei ausgewählt !</color>",
   "FileSystem.InvalidPath": "<color=#ff9b00>Ungültiges Verzeichnis ausgewählt !</color>",
