@@ -423,7 +423,7 @@
   "Map.SunPower.Tooltip": "<color=#ff9b00>Sun power accentuates normals</color>",
   "Map.TeleportedTo": "<color=#ff9b00>Teleported zu {0}</color>",
   "Map.TunnelOverlay": "<color=#ff9b00>Tunnel-Übersicht</color>",
-  "Map.UseBiomeColors": "<color=#91e630=#91e630>Use Biome Colors</color>",
+  "Map.UseBiomeColors": "<color=#ff9b00>Use Biome Colors</color>",
   "Map.UseBiomeColors.Tooltip": "<color=#ff9b00>Blends biome colors in to the map</color>",
   "Map.UseNormals": "<color=#ff9b00>Use Normal Map</color>",
   "Map.UseNormals.Tooltip": "Blends the terrain normal map into the image which gives it depth",
