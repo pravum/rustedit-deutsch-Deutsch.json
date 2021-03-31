@@ -243,7 +243,7 @@
   "IO.ClearCounter": "<color=#ff9b00>Zähler löschen</color>",
   "IO.CombinedPowerOut": "<color=#ff9b00>Kombinierter Stromausgang</color>",
   "IO.Connections": "<color=#ff9b00>Verbinden von IO-Elementen ({0} / {1})</color>",
-  "IO.ConnectOutputTo": "<color=#ff9b00>Verbinden {0} Ausgabg an...</color>",
+  "IO.ConnectOutputTo": "<color=#ff9b00>Verbinden {0} Ausgang an...</color>",
   "IO.ConnectOutputToIndex": "<color=#ff9b00>Ausgangssteckplatz anschließen {0} mit...</color>",
   "IO.ConnectTo": "<color=#ff9b00>IO-Ausgang anschließen an...</color>",
   "IO.ConnectTo.Fluid": "<color=#ff9b00>Flüssigkeitsausgang anschließen an...</color>",
