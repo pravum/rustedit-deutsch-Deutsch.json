@@ -8,7 +8,7 @@
 # versionsnummer sein .
 # zum shop : https://rust-custom-designs.biz/
 # mein discord :  https://discord.gg/Wx2tUFg
-# kaffeekasse  : paypal | pravum@pra-mail.de
+# kaffeekasse  : paypal | shop@rust-custom-designs.biz
 
 
 
