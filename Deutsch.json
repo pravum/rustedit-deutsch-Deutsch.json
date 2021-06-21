@@ -333,7 +333,7 @@
     "IO.Title": "<color=#74D680>IO-Verbindungen</color>",
     "IO.Toggle": "<color=#74D680>Umschalten</color>",
     "IO.ToggleOn": "<color=#74D680>Einschalten</color>",
-    "IO.ToggleSelectedVisible": "Show Selected IO Connections",
+    "IO.ToggleSelectedVisible": "<color=#74D680>Ausgewählte IO-Verbindungen anzeigen</color>",
     "IO.ToggleSelectedVisible.Tooltip": "Toggles whether IO connections are visible on selected prefabs",
     "IO.ToggleVisible": "<color=#74D680>IO-Verbindungen anzeigen</color>",
     "IO.ToggleVisible.Tooltip": "<color=#74D680>Schaltet um, ob IO-Verbindungen sichtbar sind.</color>",
